@@ -155,17 +155,18 @@ You can set the value in the `./ultralytics/cfg/default.yaml`.
 ```
 
 * Example:
-Method 1
+  
+  Method 1
 ```
   python start_train.py --model ./ultralytics/cfg/models/v8/yolov8m_GC_M1.yaml --data_dir ./GRAZPEDWRI-DX/data/meta.yaml
 ```
 
-Method 2
+  Method 2
 ```
   python start_train.py --model ./ultralytics/cfg/models/v8/yolov8m_GC_M2.yaml --data_dir ./GRAZPEDWRI-DX/data/meta.yaml
 ```
 
-Method 3
+  Method 3
 ```
   python start_train.py --model ./ultralytics/cfg/models/v8/yolov8m_GC_M3.yaml --data_dir ./GRAZPEDWRI-DX/data/meta.yaml
 ```
