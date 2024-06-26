@@ -154,21 +154,9 @@ You can set the value in the `./ultralytics/cfg/default.yaml`.
   python start_train.py -model path to model file --data_dir  path to data file
 ```
 
-* Example YOLOv8m+GC:
-  
-Method 1
+** Example:
 ```
-  python start_train.py --model ./ultralytics/cfg/models/v8/yolov8m_GC_M1.yaml --data_dir ./GRAZPEDWRI-DX/data/meta.yaml
-```
-
-Method 2
-```
-  python start_train.py --model ./ultralytics/cfg/models/v8/yolov8m_GC_M2.yaml --data_dir ./GRAZPEDWRI-DX/data/meta.yaml
-```
-
-Method 3
-```
-  python start_train.py --model ./ultralytics/cfg/models/v8/yolov8m_GC_M3.yaml --data_dir ./GRAZPEDWRI-DX/data/meta.yaml
+  python start_train.py --model ./ultralytics/cfg/models/v8/yolov8m_GC.yaml --data_dir ./GRAZPEDWRI-DX/data/meta.yaml
 ```
 ## Related Works
 
