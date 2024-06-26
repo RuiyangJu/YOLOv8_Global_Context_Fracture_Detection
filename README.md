@@ -35,8 +35,8 @@ If you find our paper useful in your research, please consider citing:
 ```
 
 ## Network Architecture
-<p align="left">
-  <img src="img/figure_network.jpg" width="640" title="details">
+<p align="center">
+  <img src="img/figure_network.jpg" width="1024" title="details">
 </p>
 
 ## Dataset Download
