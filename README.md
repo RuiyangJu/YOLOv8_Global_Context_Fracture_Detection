@@ -34,6 +34,11 @@ If you find our paper useful in your research, please consider citing:
   pip install -r requirements.txt
 ```
 
+## Network Architecture
+<p align="left">
+  <img src="img/figure_network.jpg" width="640" title="details">
+</p>
+
 ## Dataset Download
 * You can download the GRAZPEDWRI-DX Dataset on this [Link](https://figshare.com/articles/dataset/GRAZPEDWRI-DX/14825193).
 
