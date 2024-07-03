@@ -1,4 +1,5 @@
 # YOLOv8+GC for Fracture Detection
+>[Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/abs/)
 
 ## Comparison
 <p align="left">
