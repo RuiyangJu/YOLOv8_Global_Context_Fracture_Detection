@@ -1,5 +1,6 @@
 # YOLOv8+GC for Fracture Detection
 >[Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/abs/2407.03163)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/global-context-modeling-in-yolov8-for/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=global-context-modeling-in-yolov8-for)
 
 ## Comparison
