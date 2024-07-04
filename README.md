@@ -21,7 +21,12 @@
 ## Citation
 If you find our paper useful in your research, please consider citing:
 ```
-  Coming Soon!
+  @article{ju2024global,
+    title={Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection},
+    author={Ju, Rui-Yang and Chien, Chun-Tse and Lin, Chia-Min and Chiang, Jen-Shiun},
+    journal={arXiv preprint arXiv:2407.03163},
+    year={2024}
+  }
 ```
 
 ## Requirements
