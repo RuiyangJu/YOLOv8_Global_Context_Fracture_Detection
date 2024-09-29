@@ -178,5 +178,6 @@ You can set the value in the `./ultralytics/cfg/default.yaml`.
 * [https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8](https://github.com/RuiyangJu/Bone_Fracture_Detection_YOLOv8)
 * [https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8](https://github.com/RuiyangJu/Fracture_Detection_Improved_YOLOv8)
 * [https://github.com/RuiyangJu/YOLOv9-Fracture-Detection](https://github.com/RuiyangJu/YOLOv9-Fracture-Detection)
+* [https://github.com/RuiyangJu/FCE-YOLOv8](https://github.com/RuiyangJu/FCE-YOLOv8)
 
 </details>
