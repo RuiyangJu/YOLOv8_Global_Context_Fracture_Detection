@@ -1,5 +1,8 @@
 # YOLOv8+GC for Fracture Detection
+
 >[Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection](https://arxiv.org/abs/2407.03163)
+
+## :tada::tada::tada: NEWS: [Our split dataset is available now !!!](https://ruiyangju.github.io/GRAZPEDWRI-DX_JU/)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/global-context-modeling-in-yolov8-for/object-detection-on-grazpedwri-dx)](https://paperswithcode.com/sota/object-detection-on-grazpedwri-dx?p=global-context-modeling-in-yolov8-for)
 
@@ -42,7 +45,7 @@ If you find our paper useful in your research, please consider citing:
 </p>
 
 ## Dataset Download
-* You can download the GRAZPEDWRI-DX Dataset on this [Link](https://figshare.com/articles/dataset/GRAZPEDWRI-DX/14825193).
+* You can find the original GRAZPEDWRI-DX dataset [here](https://figshare.com/articles/dataset/GRAZPEDWRI-DX/14825193) (unsplit).
 
 ## Dataset Split
 * To split the dataset into training set, validation set, and test set, you should first put the image and annotatation into `./GRAZPEDWRI-DX/data/images`, and `./GRAZPEDWRI-DX/data/labels`.
@@ -50,7 +53,7 @@ If you find our paper useful in your research, please consider citing:
   ```
     python split.py
   ```
-* The dataset is divided into training, validation, and testing set (70-20-10 %) according to the key `patient_id` stored in `dataset.csv`. The script then will move the files into the relative folder as it is represented here below.
+* The dataset is divided into training, validation, and testing set (70-20-10 %) according to the key `patient_id` stored in `dataset.csv`. The script then will move the files into the relative folder as it is represented here below. You can download our split dataset [here](https://1drv.ms/u/s!Ap6uuRvdVcJWbQfOvTHl5hMuA5o?e=geFa32).
 
 
        GRAZPEDWRI-DX
