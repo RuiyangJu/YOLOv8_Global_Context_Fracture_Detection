@@ -26,11 +26,13 @@
 ## Citation
 If you find our paper useful in your research, please consider citing:
 ```
-  @article{ju2024global,
-    title={Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection},
+  @inproceedings{ju2024global,
+    title={Global context modeling in yolov8 for pediatric wrist fracture detection},
     author={Ju, Rui-Yang and Chien, Chun-Tse and Lin, Chia-Min and Chiang, Jen-Shiun},
-    journal={arXiv preprint arXiv:2407.03163},
-    year={2024}
+    booktitle={2024 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)},
+    pages={1--5},
+    year={2024},
+    organization={IEEE}
   }
 ```
 
